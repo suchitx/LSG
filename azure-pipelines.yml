@@ -22,5 +22,3 @@ steps:
     orchestratorConnection: 'Con_Orch_DevOps'
     processName: 'LSG'
     folderName: 'Test1'
-    jobType: 'TestAutomation'
-    user: 'txchd-lap-174\suchi tiwari'
