@@ -19,6 +19,6 @@ steps:
   displayName: 'Run a multi-line script'
 - task: UiPathRunJob@2
   inputs:
-    orchestratorConnection: 'Con_Orch_DevOps'
+    orchestratorConnection: 'LSG'
     processName: 'LSG'
     folderName: 'Test1'
